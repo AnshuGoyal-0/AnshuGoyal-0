@@ -92,8 +92,8 @@ A fun and interactive project using **HTML** and **CSS** to teach kids **basic c
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codemasteranshu&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemasteranshu&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshuGoyal-0&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuGoyal-0&layout=compact&theme=dark)
 
 ---
 
@@ -101,7 +101,7 @@ A fun and interactive project using **HTML** and **CSS** to teach kids **basic c
 
 - 📧 **Email**: [codemasteranshu@gmail.com](mailto:codemasteranshu@gmail.com)
 - 💼 **LinkedIn**: [LinkedIn Profile](https://linkedin.com)
-- 🐱‍💻 **GitHub**: [GitHub Profile](https://github.com/codemasteranshu)
+- 🐱‍💻 **GitHub**: [GitHub Profile](https://github.com/AnshuGoyal-0)
 
 ---
 
@@ -111,4 +111,3 @@ I’m fascinated by the idea of **emotionally aware AI**—building systems that
 Let’s work together to build the future! 🚀
 
 ---
-
